@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{648AFC1E-B999-4833-A016-275FECE45E93}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Privacy.cshtml">
     <Files>
-      <File FileName="Pages/Intro.cshtml" Line="5" Column="1" />
+      <File FileName="Pages/Intro.cshtml" Line="18" Column="8" />
       <File FileName="Pages/Index.cshtml" Line="4" Column="4" />
-      <File FileName="Pages/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="Pages/Shared/_Layout.cshtml" Line="40" Column="1" />
+      <File FileName="Pages/Privacy.cshtml" Line="9" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,9 +12,8 @@
           <Node name="WebApplication" expanded="True">
             <Node name="WebApplication" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" selected="True" />
-                </Node>
+                <Node name="Shared" expanded="True" />
+                <Node name="Privacy.cshtml" selected="True" />
               </Node>
               <Node name="Properties" expanded="True" />
             </Node>
