@@ -36,4 +36,4 @@
 /Users/shubhamdhamane/Documents/cambrian/web/Assignments/Web1001_WebApplication/Web1001_WebApplication/obj/Debug/net5.0/Web1001_WebApplication.pdb
 /Users/shubhamdhamane/Documents/cambrian/web/Assignments/Web1001_WebApplication/Web1001_WebApplication/obj/Debug/net5.0/Web1001_WebApplication.genruntimeconfig.cache
 /Users/shubhamdhamane/Documents/cambrian/web/Assignments/Web1001_WebApplication/Web1001_WebApplication/obj/Debug/net5.0/Web1001_WebApplication.csproj.CopyComplete
-/Users/shubhamdhamane/Documents/cambrian/web/Assignments/Web1001_WebApplication/Web1001_WebApplication/obj/Debug/net5.0/Razor/Views/Shared/Intro.cshtml.g.cs
+/Users/shubhamdhamane/Documents/cambrian/web/Assignments/Web1001_WebApplication/Web1001_WebApplication/obj/Debug/net5.0/Razor/Intro.cshtml.g.cs
